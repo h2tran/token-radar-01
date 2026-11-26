@@ -1,8 +1,8 @@
 # Token Radar — radar-2
 
-[![make.fun](https://img.shields.io/badge/make.fun-token--radar--01-blue)](https://make.fun/bounty/token-radar-01)
-[![competition](https://img.shields.io/badge/competition-token--radar--01-green)](https://make.fun/bounty/token-radar-01)
-[![GitHub](https://img.shields.io/badge/github-h2tran%2Ftoken--radar--01-black)](https://github.com/h2tran/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/h2tran/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/h2tran/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 Entry by [@minh-h-tran](https://make.fun) — GitHub
 [h2tran/token-radar-01](https://github.com/h2tran/token-radar-01).
